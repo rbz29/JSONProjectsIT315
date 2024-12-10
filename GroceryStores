@@ -1,0 +1,16 @@
+{ func populateGSObjects () {
+        let GS1 = GroceryStores()
+        GS1.StoresName = "Lidl"
+        GS1.StoresDescription = "Lidl is a discount grocery store offering a wide range of high-quality products at affordable prices. known for its no-frills shopping experience, lidl features a curated selection of fresh produce, bakery, items, and dairy products as well as household essentials."
+        GS1.StoresAddress = "Lidl, 11179 Route 29 Fairfax, VA 22030"
+        GS1.StoresRating = "4"
+        GS1.StoresOpeningHours = "8am - 9pm"
+        GS1.StoresPriceRange = "$$"
+        GS1.StoresContactInfo = "(888)654-3515"
+        GS1.StoresWebsite = "https://www.lidl.com/";
+        GS1.StoresImage = "lidl.jpeg"
+        GSObjectArray.append(GS1)
+        
+        
+        let GS2 = GroceryStores()
+        GS2.StoresName = "Aldi"
