@@ -13,14 +13,47 @@
     },
     {
       "StoresName": "Aldi",
-      "StoresDescription": "Aldi is a global discount supermarket chain known for its no-frills shopping experience and an emphasis on private-label products at low prices. Aldi offers a variety of fresh produce, dairy, snacks, and household goods.",
-      "StoresAddress": "Aldi, 12345 Route 7, Fairfax, VA 22031",
-      "StoresRating": "4.5",
-      "StoresOpeningHours": "9am - 8pm",
+      "StoresDescription": "Aldi is a popular discount grocery store renowned for its low prices and efficient shopping experience. The store offers a diverse selection of high-quality groceries, including fresh produce, meats, dairy and pantry staples, often sourced from trusted suppliers.",
+      "StoresAddress": "Aldi, 11001 Lee Hwy Suite G, Fairfax, VA 22033",
+      "StoresRating": "3.5",
+      "StoresOpeningHours": "9AM - 8PM",
       "StoresPriceRange": "$$",
-      "StoresContactInfo": "(888)555-1234",
+      "StoresContactInfo": "(855)955-2534",
       "StoresWebsite": "https://www.aldi.us/",
       "StoresImage": "aldi.jpeg"
+    },
+    {
+      "StoresName": "Trader Joes",
+      "StoresDescription": "Trader Joe's is a unique grocery store celebrated for its eclectic selection of affordable, high-quality products. Known for its friendly staff and vibrant store atmosphere.",
+      "StoresAddress": "Trader Joes, 9464 Main St, Fairfax, VA 22031",
+      "StoresRating": "4.5",
+      "StoresOpeningHours": "7AM - 6PM",
+      "StoresPriceRange": "$$",
+      "StoresContactInfo": "(103)764-8550",
+      "StoresWebsite": "https://www.traderjoes.com/home",
+      "StoresImage": "Traderjoe's.jpeg"
+    },
+    {
+      "StoresName": "Wegmans",
+      "StoresDescription": "Wegmans is a premium grocery store known for its exceptional selection of fresh and high-quality products. With a wide range of groceries, including organic produce, artisanal baked goods and gourmet prepared meals, Wegmans caters to food enthusiasts and families alike.",
+      "StoresAddress": "Wegmans, 11620 Monument Dr, Fairfax, VA 22030",
+      "StoresRating": "5",
+      "StoresOpeningHours": "8AM - 9PM",
+      "StoresPriceRange": "$$",
+      "StoresContactInfo": "(703)566-8884",
+      "StoresWebsite": "https://www.wegmans.com/",
+      "StoresImage": "wegmans.jpeg"
+    },
+    {
+      "StoresName": "Whole Foods",
+      "StoresDescription": "Whole Foods Market is a leading grocery store specializing in natural and organic products. Known for its commitment to quality, Whole Foods offers a wide selection of fresh produce, responsibly sourced meats, dairy, and pantry staples.",
+      "StoresAddress": "Whole Foods Market, 4501 Market Commons Dr, Fairfax, VA 22033",
+      "StoresRating": "3.5",
+      "StoresOpeningHours": "8AM - 9PM",
+      "StoresPriceRange": "$$",
+      "StoresContactInfo": "(703)823-5454",
+      "StoresWebsite": "https://www.wholefoodsmarket.com/",
+      "StoresImage": "wholefoods.jpeg"
     }
   ]
 }
